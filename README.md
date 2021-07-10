@@ -1,2 +1,2 @@
 # learning
-This tryst at learning new stuff.
+This is my tryst at learning new stuff.
